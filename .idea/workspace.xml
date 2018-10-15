@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f936448-b06b-4df7-94f3-e6e837335c56" name="Default Changelist" comment="" />
+    <list default="true" id="8f936448-b06b-4df7-94f3-e6e837335c56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.path_progress" beforeDir="false" afterPath="$PROJECT_DIR$/.path_progress" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/REAME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_blocks.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_blocks.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_class_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_class_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_classes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_classes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_constants.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_constants.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_control_statements.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_control_statements.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_dice_project.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_dice_project.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_exceptions.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_exceptions.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_hashes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_hashes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_inheritance.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_inheritance.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_iteration.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_iteration.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_keyword_arguments.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_keyword_arguments.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_message_passing.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_message_passing.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_modules.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_modules.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_open_classes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_open_classes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_proxy_object_project.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_proxy_object_project.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_regular_expressions.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_regular_expressions.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_sandwich_code.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_sandwich_code.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_scope.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_scope.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_scoring_project.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_scoring_project.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_strings.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_strings.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_symbols.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_symbols.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_to_str.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_to_str.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_true_and_false.rb" beforeDir="false" afterPath="$PROJECT_DIR$/about_true_and_false.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangle.rb" beforeDir="false" afterPath="$PROJECT_DIR$/triangle.rb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,44 +41,67 @@
     <session id="85507843">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="rb" value="5" />
+          <entry key="rb" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Ruby" value="5" />
+          <entry key="Ruby" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rb" value="1036" />
+          <entry key="rb" value="5093" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ruby" value="1036" />
+          <entry key="RegExp" value="1" />
+          <entry key="Ruby" value="5092" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_hashes.rb">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_class_methods.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+            <state relative-caret-position="583">
+              <caret line="164" column="35" selection-start-line="164" selection-start-column="35" selection-end-line="164" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_proxy_object_project.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_to_str.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="51" selection-start-line="51" selection-end-line="52" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -60,6 +112,30 @@
         <option value="$PROJECT_DIR$/about_arrays.rb" />
         <option value="$PROJECT_DIR$/about_array_assignment.rb" />
         <option value="$PROJECT_DIR$/about_hashes.rb" />
+        <option value="$PROJECT_DIR$/about_strings.rb" />
+        <option value="$PROJECT_DIR$/about_symbols.rb" />
+        <option value="$PROJECT_DIR$/about_regular_expressions.rb" />
+        <option value="$PROJECT_DIR$/about_methods.rb" />
+        <option value="$PROJECT_DIR$/about_keyword_arguments.rb" />
+        <option value="$PROJECT_DIR$/about_constants.rb" />
+        <option value="$PROJECT_DIR$/about_control_statements.rb" />
+        <option value="$PROJECT_DIR$/about_true_and_false.rb" />
+        <option value="$PROJECT_DIR$/about_exceptions.rb" />
+        <option value="$PROJECT_DIR$/triangle.rb" />
+        <option value="$PROJECT_DIR$/about_iteration.rb" />
+        <option value="$PROJECT_DIR$/about_blocks.rb" />
+        <option value="$PROJECT_DIR$/about_sandwich_code.rb" />
+        <option value="$PROJECT_DIR$/about_scoring_project.rb" />
+        <option value="$PROJECT_DIR$/about_classes.rb" />
+        <option value="$PROJECT_DIR$/about_open_classes.rb" />
+        <option value="$PROJECT_DIR$/about_dice_project.rb" />
+        <option value="$PROJECT_DIR$/about_inheritance.rb" />
+        <option value="$PROJECT_DIR$/about_modules.rb" />
+        <option value="$PROJECT_DIR$/about_scope.rb" />
+        <option value="$PROJECT_DIR$/about_class_methods.rb" />
+        <option value="$PROJECT_DIR$/about_message_passing.rb" />
+        <option value="$PROJECT_DIR$/about_proxy_object_project.rb" />
+        <option value="$PROJECT_DIR$/about_to_str.rb" />
       </list>
     </option>
   </component>
@@ -75,6 +151,7 @@
     <option name="width" value="979" />
     <option name="height" value="604" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -123,19 +200,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539598816884</updated>
-      <workItem from="1539598833970" duration="3582000" />
+      <workItem from="1539598833970" duration="17515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3582000" />
+    <option name="totallyTimeSpent" value="17515000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="-4" width="979" height="604" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="-1" width="1440" height="901" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16738197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -199,8 +275,186 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_hashes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+        <state relative-caret-position="376">
+          <caret line="115" column="3" lean-forward="true" selection-start-line="115" selection-start-column="3" selection-end-line="115" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_strings.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_symbols.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_regular_expressions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="158" column="25" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="146" column="26" selection-start-line="146" selection-start-column="26" selection-end-line="146" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_keyword_arguments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_constants.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_control_statements.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="138" column="19" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_true_and_false.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_triangle_project.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_exceptions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triangle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_triangle_project_2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_iteration.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="101" column="44" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_blocks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="92" column="19" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_sandwich_code.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="108" column="18" selection-start-line="108" selection-start-column="18" selection-end-line="108" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_scoring_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_classes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="186" column="18" selection-start-line="186" selection-start-column="18" selection-end-line="186" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_open_classes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_dice_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_inheritance.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="72" column="13" lean-forward="true" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_modules.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_scope.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_class_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="164" column="35" selection-start-line="164" selection-start-column="35" selection-end-line="164" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_message_passing.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="181" column="22" selection-start-line="181" selection-start-column="22" selection-end-line="181" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_proxy_object_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_to_str.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="51" selection-start-line="51" selection-end-line="52" />
         </state>
       </provider>
     </entry>
